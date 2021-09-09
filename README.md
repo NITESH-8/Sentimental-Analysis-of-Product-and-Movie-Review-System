@@ -1,20 +1,20 @@
-# Sentimental-Analysis-of-Product-and-Movie-Review-System
+# Sentimental_Analysis_of_Product_and_Movie_Review_System
 
 <img src="https://i.ibb.co/CJDQhK8/3.png" width="600px">
 
-A mini Machine Learning review system Web App Project
-It has 2 features:-
+A  Machine Learning review system Web App Project
+having 2 features:-
 
 ### 1- Amazon Product Review Analysis
 
-- user give any amazon product link, then it will extract reviews(web-scraping) and then will show the overall result whether product reviews are positive or negative! 
+- User give any amazon product link, then it will extract reviews(web-scraping) that after analysis will show the overall result whether Product reviews are positive or negative! 
   <!-- > fghfg -->
 
 <img src="https://i.ibb.co/z5Q50Xd/5.png" width="600px">
 
-### 2- single comment review analysis
+### 2- Single Comment Review Analysis
 
-- user give any comment and it will show how much positive or negative the comment review is!
+- User give any comment and it will show how much positive or negative the comment review is!
 
 <img src="https://i.ibb.co/GQHcvg0/4.png" width="600px">
 
@@ -24,7 +24,7 @@ It has 2 features:-
 
 ## Used:
 
-Python (ML part)
+Python (ML)
 
 Html5 (frontend)
 
